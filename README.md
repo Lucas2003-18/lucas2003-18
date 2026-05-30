@@ -57,6 +57,12 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2003-18&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github.com/Lucas2003-18/lucas2003-18/blob/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas2003-18/lucas2003-18/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas2003-18/lucas2003-18/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Lucas2003-18/lucas2003-18/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
